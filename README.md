@@ -2,7 +2,7 @@
 
 ### 💼 Independent Financial Planner in Mississauga | Plan Your Future (PYF)
 
-Welcome to my GitHub profile! I specialize in helping individuals, families, and business owners optimize their financial strategies, secure wealth, and plan for long-term financial freedom[cite: 1].
+Welcome to my GitHub profile! I specialize in helping individuals, families, and business owners optimize their financial strategies, secure wealth, and plan for long-term financial freedom.
 
 🟢 **Status:** Available for Financial Planning & Consultations | ⚡ **Response Time:** < 24 Hours
 
@@ -10,22 +10,22 @@ Welcome to my GitHub profile! I specialize in helping individuals, families, and
 
 ## 🎯 Areas of Expertise
 
-- 📊 **Tax Efficiency:** Minimizing tax liabilities through strategic wealth planning[cite: 1].
-- 💵 **Cash Flow Management:** Optimizing income and expenses for sustainable growth[cite: 1].
-- 🛡️ **Asset Protection:** Safeguarding assets and managing financial risk effectively[cite: 1].
-- 🏛️ **Retirement Architecture:** Structuring reliable, tax-smart retirement portfolios[cite: 1].
+- 📊 **Tax Efficiency:** Minimizing tax liabilities through strategic wealth planning.
+- 💵 **Cash Flow Management:** Optimizing income and expenses for sustainable growth.
+- 🛡️ **Asset Protection:** Safeguarding assets and managing financial risk effectively.
+- 🏛️ **Retirement Architecture:** Structuring reliable, tax-smart retirement portfolios.
 
 ---
 
 ## 💼 What I Do & Who I Work With
 
-- **Independent Advice:** Unbiased financial guidance tailored strictly to client goals[cite: 1].
-- **Transparent Fees:** Straightforward, clear, and competitive fee structure[cite: 1].
-- **Personalized Strategy:** Custom wealth creation and protection plans[cite: 1].
+- **Independent Advice:** Unbiased financial guidance tailored strictly to client goals.
+- **Transparent Fees:** Straightforward, clear, and competitive fee structure.
+- **Personalized Strategy:** Custom wealth creation and protection plans.
 
 **Who I Help:**
-- Business owners, incorporated professionals, and executives[cite: 1].
-- Families planning for retirement and intergenerational wealth transfer[cite: 1].
+- Business owners, incorporated professionals, and executives.
+- Families planning for retirement and intergenerational wealth transfer.
 
 ---
 
@@ -55,4 +55,4 @@ Welcome to my GitHub profile! I specialize in helping individuals, families, and
 
 ---
 
-*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*[cite: 1]
+*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*
