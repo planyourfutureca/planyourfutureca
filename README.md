@@ -1,31 +1,40 @@
 # Hi there, I'm Brian Poncelet, CFP® 👋
+### 💼 Independent Financial Planner | Plan Your Future Inc.
 
-### 💼 Independent Financial Planner in Mississauga | Plan Your Future (PYF)
-
-Welcome to my GitHub profile! I specialize in helping individuals, families, and business owners optimize their financial strategies, secure wealth, and plan for long-term financial freedom.
+Welcome to my GitHub profile! As an independent financial planner in Mississauga and throughout Ontario, I help professional individuals, couples, and business owners optimize their wealth, minimize taxes, and prepare future generations for long-term financial success.
 
 🟢 **Status:** Available for Financial Planning & Consultations | ⚡ **Response Time:** < 24 Hours
 
 ---
 
-## 🎯 Areas of Expertise
+## 👨‍💼 Who Is Brian Poncelet?
 
-- 📊 **Tax Efficiency:** Minimizing tax liabilities through strategic wealth planning.
-- 💵 **Cash Flow Management:** Optimizing income and expenses for sustainable growth.
-- 🛡️ **Asset Protection:** Safeguarding assets and managing financial risk effectively.
-- 🏛️ **Retirement Architecture:** Structuring reliable, tax-smart retirement portfolios.
+I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forward-thinking financial guidance[cite: 6, 7]. At **Plan Your Future Inc.**, we focus on helping clients achieve clarity, education, and efficiency in navigating their wealth journey so they can enjoy their money in retirement while protecting their assets for the future[cite: 6, 7].
 
 ---
 
-## 💼 What I Do & Who I Work With
+## 🎯 Core Pillar Strengths
 
-- **Independent Advice:** Unbiased financial guidance tailored strictly to client goals.
-- **Transparent Fees:** Straightforward, clear, and competitive fee structure.
-- **Personalized Strategy:** Custom wealth creation and protection plans.
+* **🏛️ Independence:** Unbiased solutions tailored solely in your best interest, not tied to any single company[cite: 6, 7].
+* **🤝 Partnership:** Collaboration with elite portfolio managers and CFAs to deliver high-level execution[cite: 6, 7].
+* **⚙️ Customization:** Custom-built portfolios aligned specifically with your unique goals and risk tolerance[cite: 6].
 
-**Who I Help:**
-- Business owners, incorporated professionals, and executives.
-- Families planning for retirement and intergenerational wealth transfer.
+---
+
+## 📊 Key Areas of Expertise
+
+* 💡 **Tax Efficiency:** Implementing strategic wealth planning to minimize tax liabilities[cite: 7].
+* 💵 **Cash Flow Management:** Optimizing income and expenses for long-term growth[cite: 7].
+* 🛡️ **Asset Protection:** Safeguarding wealth and mitigating risk through structured planning[cite: 7].
+* 🏛️ **Retirement Architecture:** Building tax-smart, sustainable retirement cash-flow models[cite: 7].
+
+---
+
+## 👥 Who We Serve
+
+* Business owners, incorporated professionals, and executives[cite: 6, 7].
+* Families preparing for retirement and intergenerational wealth transfer[cite: 6, 7].
+* Individuals looking for transparent, independent, and personalized financial strategies[cite: 6, 7].
 
 ---
 
@@ -41,9 +50,9 @@ Welcome to my GitHub profile! I specialize in helping individuals, families, and
 
 ---
 
-## 🕒 Business & Opening Hours
+## 🕒 Office & Business Hours
 
-| Day | Office Hours |
+| Day | Business Hours |
 | :--- | :--- |
 | **Monday** | 09:00 - 19:00 |
 | **Tuesday** | 09:00 - 19:00 |
@@ -55,4 +64,4 @@ Welcome to my GitHub profile! I specialize in helping individuals, families, and
 
 ---
 
-*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*
+*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*[cite: 6, 7]
