@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Poncelet, CFP® | Plan Your Future Inc.</h1>
+
 ### 💼 Independent Financial Planner | Plan Your Future Inc.
 
 Welcome to my GitHub profile! As an independent financial planner in Mississauga and throughout Ontario, I help professional individuals, couples, and business owners optimize their wealth, minimize taxes, and prepare future generations for long-term financial success.
