@@ -1,40 +1,48 @@
 # Hi there! I'm Brian Poncelet, CFP® | Plan Your Future Inc. 👋
 ### 💼 Independent Financial Planner | Plan Your Future Inc.
 
-Welcome to my GitHub profile! As an independent financial planner in Mississauga and throughout Ontario, I help professional individuals, couples, and business owners optimize their wealth, minimize taxes, and prepare future generations for long-term financial success.
+Welcome to my GitHub profile! As an independent financial planner in Mississauga and throughout Ontario, I help professional individuals, couples, and business owners optimize their wealth, minimize taxes, and prepare future generations for long-term financial success[cite: 6, 7].
 
 🟢 **Status:** Available for Financial Planning & Consultations | ⚡ **Response Time:** < 24 Hours
 
 ---
 
+## 🛠️ Featured Services
+
+- 🏖️ **[Retirement Planning Advisor](https://planyourfuture.me/retirement-planning-advisor-mississauga/)** – Custom retirement strategies built for financial freedom and tax efficiency.
+- 💼 **[Fee-Only Financial Advisor](https://planyourfuture.me/fee-only-financial-advisor-mississauga/)** – Unbiased, transparent, and objective financial guidance tailored to your goals.
+- 📈 **[Investment Advisor](https://planyourfuture.me/investment-advisor-mississauga/)** – Tailored portfolio management and wealth growth planning.
+
+---
+
 ## 👨‍💼 Who Is Brian Poncelet?
 
-I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forward-thinking financial guidance. At **Plan Your Future Inc.**, we focus on helping clients achieve clarity, education, and efficiency in navigating their wealth journey so they can enjoy their money in retirement while protecting their assets for the future.
+I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forward-thinking financial guidance[cite: 6, 7]. At **Plan Your Future Inc.**, we focus on helping clients achieve clarity, education, and efficiency in navigating their wealth journey so they can enjoy their money in retirement while protecting their assets for the future[cite: 6, 7].
 
 ---
 
 ## 🎯 Core Pillar Strengths
 
-* **🏛️ Independence:** Unbiased solutions tailored solely in your best interest, not tied to any single company.
-* **🤝 Partnership:** Collaboration with elite portfolio managers and CFAs to deliver high-level execution.
-* **⚙️ Customization:** Custom-built portfolios aligned specifically with your unique goals and risk tolerance.
+* **🏛️ Independence:** Unbiased solutions tailored solely in your best interest, not tied to any single company[cite: 6, 7].
+* **🤝 Partnership:** Collaboration with elite portfolio managers and CFAs to deliver high-level execution[cite: 6, 7].
+* **⚙️ Customization:** Custom-built portfolios aligned specifically with your unique goals and risk tolerance[cite: 6].
 
 ---
 
 ## 📊 Key Areas of Expertise
 
-* 💡 **Tax Efficiency:** Implementing strategic wealth planning to minimize tax liabilities.
-* 💵 **Cash Flow Management:** Optimizing income and expenses for long-term growth.
-* 🛡️ **Asset Protection:** Safeguarding wealth and mitigating risk through structured planning.
-* 🏛️ **Retirement Architecture:** Building tax-smart, sustainable retirement cash-flow models.
+* 💡 **Tax Efficiency:** Implementing strategic wealth planning to minimize tax liabilities[cite: 7].
+* 💵 **Cash Flow Management:** Optimizing income and expenses for long-term growth[cite: 7].
+* 🛡️ **Asset Protection:** Safeguarding wealth and mitigating risk through structured planning[cite: 7].
+* 🏛️ **Retirement Architecture:** Building tax-smart, sustainable retirement cash-flow models[cite: 7].
 
 ---
 
 ## 👥 Who We Serve
 
-* Business owners, incorporated professionals, and executives.
-* Families planning for retirement and intergenerational wealth transfer.
-* Individuals looking for transparent, independent, and personalized financial strategies.
+* Business owners, incorporated professionals, and executives[cite: 6, 7].
+* Families planning for retirement and intergenerational wealth transfer[cite: 6, 7].
+* Individuals looking for transparent, independent, and personalized financial strategies[cite: 6, 7].
 
 ---
 
