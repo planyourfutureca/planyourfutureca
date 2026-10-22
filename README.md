@@ -31,13 +31,13 @@ Welcome to my GitHub profile! I specialize in helping individuals, families, and
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-planyourfuture.me-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://planyourfuture.me/)
-[![About Me](https://img.shields.io/badge/About-Brian_Poncelet-lightgrey?style=for-the-badge&logo=about.me&logoColor=white)](https://planyourfuture.me/about/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brianponcelet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/brianponcelet)
-[![Facebook](https://img.shields.io/badge/Facebook-BrianPoncelet.GTA-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BrianPoncelet.GTA)
-[![X / Twitter](https://img.shields.io/badge/X-@Brian__Poncelet-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Brian_Poncelet)
-[![Email](https://img.shields.io/badge/Email-brian@planyourfuture.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@planyourfuture.me)
-[![Phone](https://img.shields.io/badge/Call-+1_6472687245-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16472687245)
+[![Website](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://planyourfuture.me/)
+[![About](https://img.shields.io/badge/About-6c757d?style=for-the-badge&logo=about.me&logoColor=white)](https://planyourfuture.me/about/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/brianponcelet)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BrianPoncelet.GTA)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Brian_Poncelet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@planyourfuture.me)
+[![Call](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16472687245)
 
 ---
 
