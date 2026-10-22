@@ -31,13 +31,13 @@ Welcome to my GitHub profile! I specialize in helping individuals, families, and
 
 ## 🌐 Connect With Me
 
-<a href="https://planyourfuture.me/" target="_blank"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://planyourfuture.me/about/" target="_blank"><img src="https://img.shields.io/badge/About-6c757d?style=for-the-badge&logo=about.me&logoColor=white" alt="About" /></a>
-<a href="https://ca.linkedin.com/in/brianponcelet" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/BrianPoncelet.GTA" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://twitter.com/Brian_Poncelet" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="mailto:brian@planyourfuture.me" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="tel:+16472687245" target="_blank"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call" /></a>
+<a href="https://planyourfuture.me/"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://planyourfuture.me/about/"><img src="https://img.shields.io/badge/About-6c757d?style=for-the-badge&logo=about.me&logoColor=white" alt="About" /></a>
+<a href="https://ca.linkedin.com/in/brianponcelet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/BrianPoncelet.GTA"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://twitter.com/Brian_Poncelet"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="mailto:brian@planyourfuture.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="tel:+16472687245"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call" /></a>
 
 ---
 
