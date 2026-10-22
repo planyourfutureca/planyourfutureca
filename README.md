@@ -2,37 +2,57 @@
 
 ### 💼 Independent Financial Planner in Mississauga | Plan Your Future (PYF)
 
-Welcome to my GitHub profile! I specialize in helping individuals, families, and business owners optimize their financial strategies, secure wealth, and plan for long-term financial freedom.
+Welcome to my GitHub profile! I specialize in helping individuals, families, and business owners optimize their financial strategies, secure wealth, and plan for long-term financial freedom[cite: 1].
+
+🟢 **Status:** Available for Financial Planning & Consultations | ⚡ **Response Time:** < 24 Hours
 
 ---
 
 ## 🎯 Areas of Expertise
 
-- 📊 **Tax Efficiency:** Minimizing tax liabilities through strategic wealth planning.
-- 💵 **Cash Flow Management:** Optimizing income and expenses for sustainable growth.
-- 🛡️ **Asset Protection:** Safeguarding assets and managing financial risk effectively.
-- 🏛️ **Retirement Architecture:** Structuring reliable, tax-smart retirement portfolios.
+- 📊 **Tax Efficiency:** Minimizing tax liabilities through strategic wealth planning[cite: 1].
+- 💵 **Cash Flow Management:** Optimizing income and expenses for sustainable growth[cite: 1].
+- 🛡️ **Asset Protection:** Safeguarding assets and managing financial risk effectively[cite: 1].
+- 🏛️ **Retirement Architecture:** Structuring reliable, tax-smart retirement portfolios[cite: 1].
 
 ---
 
 ## 💼 What I Do & Who I Work With
 
-- **Independent Advice:** Unbiased financial guidance tailored strictly to client goals.
-- **Transparent Fees:** Straightforward, clear, and competitive fee structure.
-- **Personalized Strategy:** Custom wealth creation and protection plans.
+- **Independent Advice:** Unbiased financial guidance tailored strictly to client goals[cite: 1].
+- **Transparent Fees:** Straightforward, clear, and competitive fee structure[cite: 1].
+- **Personalized Strategy:** Custom wealth creation and protection plans[cite: 1].
 
 **Who I Help:**
-- Business owners, incorporated professionals, and executives.
-- Families planning for retirement and intergenerational wealth transfer.
+- Business owners, incorporated professionals, and executives[cite: 1].
+- Families planning for retirement and intergenerational wealth transfer[cite: 1].
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🌐 **Website:** [planyourfuture.ca](https://planyourfuture.ca)
-- 💼 **LinkedIn:** [Brian Poncelet CFP®](https://www.linkedin.com/)
-- 📧 **Contact:** Reach out through our website for a consultation!
+[![Website](https://img.shields.io/badge/Website-planyourfuture.me-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://planyourfuture.me/)
+[![About Me](https://img.shields.io/badge/About-Brian_Poncelet-lightgrey?style=for-the-badge&logo=about.me&logoColor=white)](https://planyourfuture.me/about/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brianponcelet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/brianponcelet)
+[![Facebook](https://img.shields.io/badge/Facebook-BrianPoncelet.GTA-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BrianPoncelet.GTA)
+[![X / Twitter](https://img.shields.io/badge/X-@Brian__Poncelet-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Brian_Poncelet)
+[![Email](https://img.shields.io/badge/Email-brian@planyourfuture.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@planyourfuture.me)
+[![Phone](https://img.shields.io/badge/Call-+1_6472687245-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16472687245)
 
 ---
 
-*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*
+## 🕒 Business & Opening Hours
+
+| Day | Office Hours |
+| :--- | :--- |
+| **Monday** | 09:00 - 19:00 |
+| **Tuesday** | 09:00 - 19:00 |
+| **Wednesday** | 09:00 - 19:00 |
+| **Thursday** | 09:00 - 19:00 |
+| **Friday** | 09:00 - 19:00 |
+| **Saturday** | 🔴 CLOSED |
+| **Sunday** | 🔴 CLOSED |
+
+---
+
+*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*[cite: 1]
