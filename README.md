@@ -9,32 +9,32 @@ Welcome to my GitHub profile! As an independent financial planner in Mississauga
 
 ## 👨‍💼 Who Is Brian Poncelet?
 
-I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forward-thinking financial guidance[cite: 6, 7]. At **Plan Your Future Inc.**, we focus on helping clients achieve clarity, education, and efficiency in navigating their wealth journey so they can enjoy their money in retirement while protecting their assets for the future[cite: 6, 7].
+I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forward-thinking financial guidance. At **Plan Your Future Inc.**, we focus on helping clients achieve clarity, education, and efficiency in navigating their wealth journey so they can enjoy their money in retirement while protecting their assets for the future.
 
 ---
 
 ## 🎯 Core Pillar Strengths
 
-* **🏛️ Independence:** Unbiased solutions tailored solely in your best interest, not tied to any single company[cite: 6, 7].
-* **🤝 Partnership:** Collaboration with elite portfolio managers and CFAs to deliver high-level execution[cite: 6, 7].
-* **⚙️ Customization:** Custom-built portfolios aligned specifically with your unique goals and risk tolerance[cite: 6].
+* **🏛️ Independence:** Unbiased solutions tailored solely in your best interest, not tied to any single company.
+* **🤝 Partnership:** Collaboration with elite portfolio managers and CFAs to deliver high-level execution.
+* **⚙️ Customization:** Custom-built portfolios aligned specifically with your unique goals and risk tolerance.
 
 ---
 
 ## 📊 Key Areas of Expertise
 
-* 💡 **Tax Efficiency:** Implementing strategic wealth planning to minimize tax liabilities[cite: 7].
-* 💵 **Cash Flow Management:** Optimizing income and expenses for long-term growth[cite: 7].
-* 🛡️ **Asset Protection:** Safeguarding wealth and mitigating risk through structured planning[cite: 7].
-* 🏛️ **Retirement Architecture:** Building tax-smart, sustainable retirement cash-flow models[cite: 7].
+* 💡 **Tax Efficiency:** Implementing strategic wealth planning to minimize tax liabilities.
+* 💵 **Cash Flow Management:** Optimizing income and expenses for long-term growth.
+* 🛡️ **Asset Protection:** Safeguarding wealth and mitigating risk through structured planning.
+* 🏛️ **Retirement Architecture:** Building tax-smart, sustainable retirement cash-flow models.
 
 ---
 
 ## 👥 Who We Serve
 
-* Business owners, incorporated professionals, and executives[cite: 6, 7].
-* Families preparing for retirement and intergenerational wealth transfer[cite: 6, 7].
-* Individuals looking for transparent, independent, and personalized financial strategies[cite: 6, 7].
+* Business owners, incorporated professionals, and executives.
+* Families planning for retirement and intergenerational wealth transfer.
+* Individuals looking for transparent, independent, and personalized financial strategies.
 
 ---
 
@@ -64,4 +64,4 @@ I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forw
 
 ---
 
-*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*[cite: 6, 7]
+*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*
