@@ -1,75 +1,116 @@
-# Hi there! I'm Brian Poncelet, CFP® | Plan Your Future Inc. 👋
-### 💼 Independent Financial Planner | Plan Your Future Inc.
+<h1 align="center">Hi 👋, I'm Brian Poncelet, CFP® | Plan Your Future Inc.</h1>
+<h3 align="center">Independent Financial Planner & Wealth Strategist | Plan Your Future Inc.</h3>
 
-Welcome to my GitHub profile! As an independent financial planner in Mississauga and throughout Ontario, I help professional individuals, couples, and business owners optimize their wealth, minimize taxes, and prepare future generations for long-term financial success[cite: 6, 7].
-
-🟢 **Status:** Available for Financial Planning & Consultations | ⚡ **Response Time:** < 24 Hours
-
----
-
-## 🛠️ Featured Services
-
-- 🏖️ **[Retirement Planning Advisor](https://planyourfuture.me/retirement-planning-advisor-mississauga/)** – Custom retirement strategies built for financial freedom and tax efficiency.
-- 💼 **[Fee-Only Financial Advisor](https://planyourfuture.me/fee-only-financial-advisor-mississauga/)** – Unbiased, transparent, and objective financial guidance tailored to your goals.
-- 📈 **[Investment Advisor](https://planyourfuture.me/investment-advisor-mississauga/)** – Tailored portfolio management and wealth growth planning.
+<p align="center">
+  <a href="https://planyourfuture.me/"><img src="https://img.shields.io/badge/Status-Available_for_Consultation-brightgreen?style=flat-square" /></a>
+  <a href="mailto:brian@planyourfuture.me"><img src="https://img.shields.io/badge/Response_Time-%3C_24_Hours-orange?style=flat-square" /></a>
+</p>
 
 ---
 
-## 👨‍💼 Who Is Brian Poncelet?
+### 📖 About Me
 
-I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forward-thinking financial guidance[cite: 6, 7]. At **Plan Your Future Inc.**, we focus on helping clients achieve clarity, education, and efficiency in navigating their wealth journey so they can enjoy their money in retirement while protecting their assets for the future[cite: 6, 7].
+I am a Certified Financial Planner (CFP®) dedicated to providing unbiased, forward-thinking financial guidance in Mississauga and throughout Ontario[cite: 6, 7]. At **Plan Your Future Inc.**, we focus on helping clients achieve clarity, education, and efficiency in navigating their wealth journey so they can enjoy their money in retirement while protecting their assets for the future[cite: 6, 7].
 
----
-
-## 🎯 Core Pillar Strengths
-
-* **🏛️ Independence:** Unbiased solutions tailored solely in your best interest, not tied to any single company[cite: 6, 7].
-* **🤝 Partnership:** Collaboration with elite portfolio managers and CFAs to deliver high-level execution[cite: 6, 7].
-* **⚙️ Customization:** Custom-built portfolios aligned specifically with your unique goals and risk tolerance[cite: 6].
-
----
-
-## 📊 Key Areas of Expertise
-
-* 💡 **Tax Efficiency:** Implementing strategic wealth planning to minimize tax liabilities[cite: 7].
-* 💵 **Cash Flow Management:** Optimizing income and expenses for long-term growth[cite: 7].
-* 🛡️ **Asset Protection:** Safeguarding wealth and mitigating risk through structured planning[cite: 7].
-* 🏛️ **Retirement Architecture:** Building tax-smart, sustainable retirement cash-flow models[cite: 7].
-
----
-
-## 👥 Who We Serve
-
-* Business owners, incorporated professionals, and executives[cite: 6, 7].
-* Families planning for retirement and intergenerational wealth transfer[cite: 6, 7].
-* Individuals looking for transparent, independent, and personalized financial strategies[cite: 6, 7].
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🎯 Core Pillar Strengths</h4>
+      <ul>
+        <li><b>🏛️ Independence:</b> Unbiased solutions tailored solely in your best interest, not tied to any single institution[cite: 6, 7].</li>
+        <li><b>🤝 Partnership:</b> Collaboration with elite portfolio managers and CFAs to deliver high-level execution[cite: 6, 7].</li>
+        <li><b>⚙️ Customization:</b> Portfolios custom-built around your specific goals and risk tolerance[cite: 6].</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>👥 Who We Serve</h4>
+      <ul>
+        <li>Business owners, incorporated professionals, & executives[cite: 6, 7].</li>
+        <li>Families planning for retirement & intergenerational wealth transfer[cite: 6, 7].</li>
+        <li>Individuals seeking transparent, fee-only, & objective financial planning[cite: 6, 7].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Featured Services & Expertise
 
-<a href="https://planyourfuture.me/"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://planyourfuture.me/about/"><img src="https://img.shields.io/badge/About-6c757d?style=for-the-badge&logo=about.me&logoColor=white" alt="About" /></a>
-<a href="https://ca.linkedin.com/in/brianponcelet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/BrianPoncelet.GTA"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://twitter.com/Brian_Poncelet"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="mailto:brian@planyourfuture.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="tel:+16472687245"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call" /></a>
+<table>
+  <tr>
+    <td width="50%">
+      <b>🏖️ <a href="https://planyourfuture.me/retirement-planning-advisor-mississauga/">Retirement Planning Advisor</a></b><br/>
+      Custom retirement cash-flow models built for long-term financial freedom and tax efficiency.
+    </td>
+    <td width="50%">
+      <b>💡 Tax Efficiency Strategy</b><br/>
+      Implementing strategic wealth planning to minimize tax liabilities for professionals and business owners[cite: 7].
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>💼 <a href="https://planyourfuture.me/fee-only-financial-advisor-mississauga/">Fee-Only Financial Advisor</a></b><br/>
+      Unbiased, transparent, and objective financial guidance tailored strictly to client goals.
+    </td>
+    <td width="50%">
+      <b>💵 Cash Flow Management</b><br/>
+      Optimizing income streams and structuring smart asset allocation for sustainable growth[cite: 7].
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📈 <a href="https://planyourfuture.me/investment-advisor-mississauga/">Investment Advisor</a></b><br/>
+      Tailored portfolio management and structured wealth growth planning in Mississauga.
+    </td>
+    <td width="50%">
+      <b>🛡️ Asset Protection</b><br/>
+      Safeguarding wealth, managing risk, and planning intergenerational wealth transfer[cite: 6, 7].
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🕒 Office & Business Hours
+### 🌐 Quick Links & Contact
 
-| Day | Business Hours |
-| :--- | :--- |
-| **Monday** | 09:00 - 19:00 |
-| **Tuesday** | 09:00 - 19:00 |
-| **Wednesday** | 09:00 - 19:00 |
-| **Thursday** | 09:00 - 19:00 |
-| **Friday** | 09:00 - 19:00 |
-| **Saturday** | 🔴 CLOSED |
-| **Sunday** | 🔴 CLOSED |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>🌐 Main Website</b><br/>
+      <a href="https://planyourfuture.me/">planyourfuture.me</a>
+    </td>
+    <td align="center" width="25%">
+      <b>👨‍💼 About Brian</b><br/>
+      <a href="https://planyourfuture.me/about/">Author Profile</a>
+    </td>
+    <td align="center" width="25%">
+      <b>📧 Email Direct</b><br/>
+      <a href="mailto:brian@planyourfuture.me">brian@planyourfuture.me</a>
+    </td>
+    <td align="center" width="25%">
+      <b>📞 Call Office</b><br/>
+      <a href="tel:+16472687245">+1 (647) 268-7245</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-*"The Wealth Positioning Process — Tailored financial strategies to secure your future."*
+### 🕒 Office & Business Hours
+
+| Day | Business Hours | Location |
+| :--- | :--- | :--- |
+| **Monday – Friday** | 09:00 – 19:00 | Mississauga & GTA, Ontario[cite: 6] |
+| **Saturday – Sunday** | 🔴 CLOSED | Online Inquiry Available |
+
+---
+
+<p align="center">
+  <a href="https://ca.linkedin.com/in/brianponcelet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/BrianPoncelet.GTA"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/Brian_Poncelet"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:brian@planyourfuture.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"The Wealth Positioning Process — Tailored financial strategies to secure your future."</i></p>
